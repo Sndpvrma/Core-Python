@@ -1,0 +1,10 @@
+d={1:'raju', 2:'kaju', 3:'badam'};
+print(d);
+print(d[1]);
+print(d.keys());
+print(d.values());
+print(d.items());
+print(d.popitem());
+print(d.copy());
+# print(d.update({3:'Groundnuts'}));
+print(d.clear());
